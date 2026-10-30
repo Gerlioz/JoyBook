@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JoyBook</string>
+    <string name="nav_library">Библиотека</string>
+    <string name="nav_player">Плеер</string>
+    <string name="nav_bookmarks">Закладки</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="import_audiobook">Добавить аудиокнигу</string>
+    <string name="sleep_timer">Таймер сна</string>
+    <string name="playback_speed">Скорость</string>
+    <string name="chapters_title">Главы и части</string>
+    <string name="bookmarks_title">Закладки</string>
+    <string name="add_bookmark">Создать закладку</string>
+    <string name="supported_formats">Поддерживаемые форматы: MP3, M4A, M4B, AMR, WAV</string>
+    <string name="theme_settings">Темы оформления</string>
+    <string name="controls_settings">Настройка кнопок управления</string>
+    <string name="ui_settings">Настройка интерфейса</string>
+</resources>

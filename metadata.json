@@ -1,0 +1,6 @@
+{
+  "name": "JoyBook",
+  "description": "Плеер аудиокниг с поддержкой форматов MP3, M4A, M4B, AMR, WAV, таймером сна, гибкой настройкой кнопок управления и тем оформления (включая AMOLED).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
